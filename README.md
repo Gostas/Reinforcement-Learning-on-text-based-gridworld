@@ -4,4 +4,4 @@ This is a simulation driven by two separate Reinforcement Learning algorithms ca
 
 A video demonstration of the program can be found below:
 
-[![Video demo link]({image-url})]({https://www.youtube.com/watch?v=h4inhJ41yXM&t=197s} "Youtube demo").
+[![Video demo link]({https://youtu.be/h4inhJ41yXM})]({https://youtu.be/h4inhJ41yXM} "Video demo")
